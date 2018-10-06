@@ -1,0 +1,2 @@
+REPOSITORY      1538512999.0    290053194158    arn:aws:ecr:eu-west-1:290053194158:repository/sample-app-ecr        
+sample-app-ecr  290053194158.dkr.ecr.eu-west-1.amazonaws.com/sample-app-ecr
